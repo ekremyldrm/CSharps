@@ -1,0 +1,18 @@
+﻿namespace _5_ClassType_Partial
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {// partial classların özellikleri derlenme aşamasında birleştirilir tek bir class gibi kullanılır..
+            Ogrenci ooo = new Ogrenci();
+            ooo.Adi = "test";
+            ooo.SoyAdi = "YILDIRIM";
+            ooo.BilgiGoster();
+        }
+    }
+}
