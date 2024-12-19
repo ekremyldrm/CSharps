@@ -112,6 +112,12 @@ namespace _8_Collections
 
             string deneme = (string)hst["b"];
 
+            // tümü 
+            foreach (DictionaryEntry h in hst)
+            {
+                MessageBox.Show($"{h.Key} & {h.Value}");
+            }
+
             // koleksiyonlar object türündn verisakladığı için eklenen her eleman boxing ve unboxin işlemine tabi tutatlacağı için performans problemi (büyük verilerde) oluşturacaktır...
 
             // Generic Collections (kullanılınır)
