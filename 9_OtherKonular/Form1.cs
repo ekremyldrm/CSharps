@@ -64,6 +64,20 @@
             int z = 0;
 
             int k = (x ?? 0) + y + z;
+
+
+            // değer tutan tipler null olamaz. çünkü null bir değer değildir.. eğer değer tipin null tutmasını istiyorsak nullable yapmamız gerekir. ? veya Nullable generic'ini kullanarak nullable yapaibliriz.. yaygın kullanım ? operatörüdür..
+
+            bool? m = null;
+            float? n = null;
+            Nullable<double> b = null;
+            //m.Value => bool
+            //n.Value => float
+            //b.Value  => double
+
+            // değer tutmayan tipler (referans tipler) null olabilir
+            string c = null;
+            string l = "ekrem";
         }
     }
 }
