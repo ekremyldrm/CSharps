@@ -71,7 +71,6 @@
 
 
 
-
             // bütün elemanlar
             List<string> ogrencis1 = (from a in ogrencis
                                       select a).ToList();
