@@ -1,0 +1,14 @@
+[
+  {
+    "Adi": "A Ürünü",
+    "Stok": 2300,
+    "Kategori": "Giyim",
+    "Indirim": false
+  },
+  {
+    "Adi": "B Ürünü",
+    "Stok": 5,
+    "Kategori": "Mobilya",
+    "Indirim": true
+  }
+]

@@ -1,17 +1,17 @@
 <Ogrenciler>
-<Ogrenci>
-	<adi>EKREM</adi>
-	<cinsiyet>ERKEK</cinsiyet>
-	<yas>36</yas>
-</Ogrenci>
-<Ogrenci>
-	<adi> GÖKBERK</adi>
-	<cinsiyet> ERKEK</cinsiyet>
-	<yas>29</yas>
-</Ogrenci>
-<Ogrenci>
-	<adi>EMİNE</adi> 
-	<cinsiyet>KADIN</cinsiyet>
-	<yas>39</yas>
-</Ogrenci>
+	<Ogrenci>
+		<adi>EKREM</adi>
+		<cinsiyet>ERKEK</cinsiyet>
+		<yas>36</yas>
+	</Ogrenci>
+	<Ogrenci>
+		<adi> GÖKBERK</adi>
+		<cinsiyet> ERKEK</cinsiyet>
+		<yas>29</yas>
+	</Ogrenci>
+	<Ogrenci>
+		<adi>EMİNE</adi>
+		<cinsiyet>KADIN</cinsiyet>
+		<yas>39</yas>
+	</Ogrenci>
 </Ogrenciler>

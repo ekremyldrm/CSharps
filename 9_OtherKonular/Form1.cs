@@ -40,14 +40,14 @@
             // 1. yol
             if (stock.HasValue) // stok'un değeri varsa
             {
-                int b = (int)stock; // cast ederek int'e dönüştür
+                int bb = (int)stock; // cast ederek int'e dönüştür
             }
 
             // 2. yol 
 
             if (vize.HasValue)
             {
-                int c = vize.Value;
+                int cc = vize.Value;
             }
 
 

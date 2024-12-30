@@ -1,0 +1,20 @@
+<Urunler>
+	<Urun>
+		<Adi>A Ürünü</Adi>
+		<Kategori>Giyim</Kategori>
+		<Stok>110</Stok>
+		<Indirim>False</Indirim>
+	</Urun>
+	<Urun>
+		<Adi>B Ürünü</Adi>
+		<Kategori>Giyim</Kategori>
+		<Stok>50</Stok>
+		<Indirim>False</Indirim>
+	</Urun>
+	<Urun>
+		<Adi>C Ürünü</Adi>
+		<Kategori>Giyim</Kategori>
+		<Stok>1</Stok>
+		<Indirim>False</Indirim>
+	</Urun>
+</Urunler>
